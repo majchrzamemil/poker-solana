@@ -1,2 +1,4 @@
-./*/Cargo.lock
-./*/target
+./poker_client/Cargo.lock
+./poker-contracts/Cargo.lock
+./poker_client/target
+./poker-contracts/target
